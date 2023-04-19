@@ -1,0 +1,17 @@
+abstract: Project B02 investigates motor network maturation in children and adolescents.
+  Multi-channel EEG source localisation, transcranial magnetic stimulation, and functional
+  magnetic resonance imaging will be used to unravel how emerging frontal cortical
+  activation accomplishes improved motor control and how disturbed maturation leads
+  to involuntary tic movements.
+authors:
+- {family-names: Bender, given-names: Stephan}
+- {family-names: Konrad, given-names: Kerstin}
+- {family-names: Gerloff, given-names: Christian}
+- {family-names: Heinen, given-names: Theresa}
+- {family-names: Schmidgen, given-names: Julia}
+- {family-names: Vöckel, given-names: Jasper}
+- {family-names: Wunram, given-names: Heidrun}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'B02: Neural network maturation underlying top-down motor control and movement
+  initiation in childhood and adolescence'
