@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-					
+# bold indicates required						
+name	EEG 					
+title	EEG data					
+description	EEG dataset of healthy subjects and subjects with a Tic disorder aged five to sixteen years. Subjects performed resting state EEG and movement task.					
+crc-project	B02					
+version	0.1.0					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]	UBERON:0000955					
+keywords	EEG	Maturation	Children	Tic Disorder	resting state	movement tasks
+license						
+doi						
+homepage						
+last-updated						
